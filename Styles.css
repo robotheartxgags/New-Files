@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background: url(./adfec60620426c53f8b05e0e6ba4bebe.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+height: 900px;
+
+}
+
+
+h1 img{
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+ul{
+    margin-left: 280px;
+   margin-top: -120px;
+    position: relative;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+}
+ul li{
+    
+    
+    font-size:  16px ;
+    font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;    margin-left: 50px;
+
+    padding: 10px;
+}
+a{
+    
+       text-decoration: none;
+    color: aliceblue;
+}
+
+
+
+label{
+    text-align: center;
+    position: relative;
+    font-size: 80px;
+    font-family: 'calibri';
+    color: aliceblue;
+    user-select: none;
+    margin-left: 100px;
+ top: 320px;
+    
+}
+.bbg label{
+  
+        font-size: 80px;
+    font-family: 'Cooper';
+    color: aliceblue;
+    user-select: none;
+    
+    
+}
+
+.spaced-label span {
+font-size: 40px;    margin-right: 40px; /* Adjust the space as needed */
+font-family: Arial, Helvetica, sans-serif;
+position: relative;
+left: -60px;
+
+
+
+}
+
+.Logog{   
+    width: 60px;
+    position: relative;
+    top: 340px;
+    left: 80px;
+}
+.right{
+    width: 60px;
+    position: relative;
+    top: 330px;
+    left: 1150px;
+}
+.buttunebad{
+ 
+   border:2px solid white ;
+   padding: 17px;
+   border-radius: 28px;
+   
+   background: linear-gradient(to right, #7616bb, #5631a0, #8207f5);
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  left: 110px;
+  top: 420PX;
+  
+}
+
+.buttun{
+    border:2px solid white ;
+   padding: 17px;
+   border-radius: 28px;
+ 
+   
+   background: linear-gradient(to right, #7616bb, #5631a0, #8207f5);
+  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  margin-left: 1100px;
+  top: 70px;
+}
+.logobar img{
+      width: 400px;
+   margin-top: 600px;
+   margin-left: 100px;
+}
+.parag h2{
+    font-size:60px ;
+    margin-left: 600px;
+   margin-top: -300px;
+   font-family: 'calibri';
+   color: #040404df;
+   line-height: 1;
+
+
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+       line-height: 1.6;
+  color: #777777;
+    margin-left: 600px;
+    font-size: 17px;
+
+}
+.custom-button{
+           display: inline-block;
+      padding-top: 15px;
+        border: 2px solid lightblue;
+        width: 140px;
+        height: 30px;
+        text-align: center;
+        border-radius: 27px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 16px;
+        background: linear-gradient(to right, #7616bb, #5631a0, #8207f5);
+        transition: background-color 0.3s ease;
+        margin-left: 700px;
+        margin-top: 40px;
+      }
+      
+      .custom-button:hover {
+        background-color: transparent;
+        color: rgb(255, 255, 255);
+      }
+      .custom-buttong{
+       
+        display: inline-block;
+   padding-top: 15px;
+     border: 2px solid lightblue;
+     width: 140px;
+     height: 30px;
+     text-align: center;
+     border-radius: 27px;
+     color: rgb(255, 255, 255);
+     text-decoration: none;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 16px;
+     background: linear-gradient(to right, #000000, #414042, #000000);
+     transition: background-color 0.3s ease;
+     margin-left: 900px;
+     margin-bottom: 140px;
+    
+   }
+   
+   .custom-button:hover {
+     background-color: transparent;
+     color: rgb(255, 255, 255);
+   }
+   
+  
